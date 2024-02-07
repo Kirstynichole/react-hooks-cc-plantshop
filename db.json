@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Loser",
+      "image": "https://media.licdn.com/dms/image/C4E03AQG_ojld78BNIg/profile-displayphoto-shrink_800_800/0/1516834561505?e=1712793600&v=beta&t=anOHGQlrhwbdKfyUdE6ZJ9_C1UFW_XAiSbntquBIeng",
+      "price": "50",
+      "id": 8
     }
   ]
 }
